@@ -1,17 +1,55 @@
-Non-Commercial Use License Disclaimer
+Thank you for downloading Unsee A.K.A "Invisiline", seemingly the only mod that adds an invisible block to the game.
 
-Copyright © Damien Laurent 2025.
+I do not know Java nor any other programming language and have no idea how I even made this thig, let alone made it work. 
+So feel free to improve this spaghetti source code wherever you see fit. I'm sure it is pretty inefficient!
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to use, copy, modify, and distribute the Software, subject to the following conditions:
+WARNING: PROCEED WITH CAUTION BEFORE OPENING .JAVA OR .JSON FILES. IF YOU ARE A PROFESSIONAL, A STUDENT, OR ANYONE ELSE "IN THE KNOW",
+THIS SOURCE CODE MIGHT INCREASE YOUR RISKS OF GETTING A CEREBRAL HEMORRAGE. BE READY, UNLESS YOU DON'T KNOW WHAT YOU'RE DOING.
 
-Non-Commercial Use Only:
-The Software may only be used, copied, modified, or distributed for non-commercial purposes. Any use of the Software, or any derivative works based upon it, for commercial gain or in connection with any commercial or capital interests is strictly prohibited.
+DISCLAIMER: I'm an artist, not a programmer. But since I care about you deeply, here are some tips on how to avoid getting a stroke
+I got from ChatGPT if you are to continue regardless:
 
-Attribution:
-Any copies or derivative works of the Software must include this license disclaimer and credit the original author.
 
-No Warranty:
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+🧠 How to Avoid a Stroke (Apoplexy)
+  1. Manage Blood Pressure
+     High blood pressure is the #1 risk factor. Aim for:
+     
+     * Regular monitoring.
+     * A target of around 120/80 mmHg.
+     * Reducing salt, stress, and alcohol intake.
+     * Following prescribed medication if needed.
 
-By using this Software, you agree to be bound by the terms of this license.
+  3. Control Cholesterol and Diabetes
+     * Eat heart-healthy fats (olive oil, nuts, fish).
+     * Avoid trans fats and sugar.
+     * Keep blood glucose in a normal range.
 
+3. Quit Smoking and Limit Alcohol
+     Smoking damages blood vessels and increases clot risk. Alcohol in excess raises blood pressure and weakens the heart.
+
+4. Exercise Regularly
+     Aim for 150 minutes of moderate activity per week. Walking, swimming, cycling, yoga — all great choices.
+
+5. Eat a Brain-Healthy Diet
+     Lots of fruits, vegetables, whole grains. Less red meat, processed foods. The Mediterranean diet is a good reference.
+
+6. Maintain a Healthy Weight
+     Obesity raises the risk of high blood pressure, diabetes, and cardiovascular disease.
+
+7. Treat Atrial Fibrillation (AFib)
+     AFib increases stroke risk due to potential clots. It often requires medication and monitoring.
+
+8. Know the Warning Signs (BE FAST)
+     If someone shows signs, immediate medical help is critical:
+
+     * Balance loss.
+     * Eyesight changes.
+     * Face drooping.
+     * Arm weakness
+     * Speech difficulty.
+   
+   Time to call emergency services.
+   
+Stay safe,
+
+Damian.
