@@ -36,6 +36,9 @@ public class ModBlocks {
     public static final RegistryObject<Block> INVISILINE_BLOCK = registerBlock("invisiline_block",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.POLISHED_DIORITE_SLAB).sound(SoundType.WOOD).noOcclusion().noCollission()));
 
+    public static final RegistryObject<Block> INVISIPAINT_BLOCK = registerBlock("invisipaint_block",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.POLISHED_ANDESITE_SLAB).sound(SoundType.WOOD).noOcclusion().noCollission()));
+
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
         registerBlockItem(name, toReturn);

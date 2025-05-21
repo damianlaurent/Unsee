@@ -70,6 +70,9 @@ public class unsee {
         if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(ModBlocks.INVISILINE_BLOCK);
         }
+        if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS){
+            event.accept(ModBlocks.INVISIPAINT_BLOCK);
+        }
 
 
     }
